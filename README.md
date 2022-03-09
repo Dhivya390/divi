@@ -1,2 +1,3 @@
 # divi
-divi repo
+divi repo for commands
+
