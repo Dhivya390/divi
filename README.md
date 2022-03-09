@@ -1,3 +1,3 @@
 # divi
-divi repo for commands
+divi repo for learning code and build projects
 
